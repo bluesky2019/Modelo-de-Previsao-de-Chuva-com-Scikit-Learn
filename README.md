@@ -19,7 +19,7 @@ Target (saída):
 
 Quantidade de chuva (mm)
 
-Implementação do Modelo
+Implementação do Modelo:
 O código completo para criar e treinar um modelo está na parte de codigo aqui no github.
 
 
